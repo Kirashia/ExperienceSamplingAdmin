@@ -2,10 +2,11 @@
 
 class Database  
 {  
-	private $dbhost = "localhost:3306";
-	private $dbuser = "experjt1_program";
-	private $dbpass = "?qbdD_w__~hQ";
-	private $dbdata = "experjt1_itechdigi_sussexuni2017";	 	
+	// Deleted to save privacy
+	private $dbhost = "";
+	private $dbuser = "";
+	private $dbpass = "";
+	private $dbdata = "";	 	
 	public $con;
 	
 	public function __construct()  
